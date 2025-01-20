@@ -1,0 +1,46 @@
+body {
+    background-color: gray;
+}
+
+ .border{
+   border-bottom: 5px solid black;
+    }
+ .logo{
+   font-size: 50px;
+   text-align: center;
+ }
+ .wai{
+   border-bottom: 5px solid black
+ }
+ .link{
+   margin-top: 10px;
+   text-align: center;
+   border-bottom: none;
+   border: 5px solid black;
+   border-radius: 10px;
+ }
+  .link1{
+   margin-top: 10px;
+   text-align: center;
+   border-bottom: none;
+   border: 5px solid black;
+   border-radius: 10px;
+ }
+  .link2{
+   margin-top: 10px;
+   text-align: center;
+   border-bottom: none;
+   border: 5px solid black;
+   border-radius: 10px;
+ }
+ .qrcode{
+   padding-top: 30px;
+   width: 20px;
+   height: 20px;
+ }
+ .Text{
+   border-left: 3px solid black;
+   font-size: 30px;
+   padding-left: 530px;
+   
+ }
